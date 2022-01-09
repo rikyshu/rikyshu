@@ -12,13 +12,8 @@ You can click the Preview link to take a look at your changes.
 ## Hi there 👋 
 ![](https://komarev.com/ghpvc/?username=rikyshu)
 <br>
-My name is Fauzan Falah. I am a Fullstack Website Developer and  live in Bekasi City, West Java Indonesia, I focus on website and application development. My hobby in IT is likes about new things about coding.
+My name is Muhammad Riky I am a Fullstack Website Developer and  live in Bekasi City, West Java Indonesia, I focus on website and application development. My hobby in IT is likes about new things about coding.
 <br>
-<br>
-:pencil: I like blogging as well. You can read [my blog](https://www.codekop.com/).
-<br>
-<br>
-:construction_worker: I am looking for new PHP remote work. My resume is [online](https://fauzan.codekop.com/)
 <br><br>
 ### Technologies & Tools :wrench:
 
@@ -40,5 +35,5 @@ My name is Fauzan Falah. I am a Fullstack Website Developer and  live in Bekasi 
 ![image](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 <br><br>
 ### My Github Stats :chart_with_upwards_trend:
-![Fauzan's github stats](https://github-readme-stats.vercel.app/api?username=fauzan1892&count_private=true&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fauzan1892&langs_count=3&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Fauzan's github stats](https://github-readme-stats.vercel.app/api?username=rikyshu&count_private=true&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rikyshu&langs_count=3&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
