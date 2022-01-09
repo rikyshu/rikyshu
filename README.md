@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ## Hi there 👋 
-![](https://komarev.com/ghpvc/?username=fauzan1892)
+![](https://komarev.com/ghpvc/?username=rikyshu)
 <br>
 My name is Fauzan Falah. I am a Fullstack Website Developer and  live in Bekasi City, West Java Indonesia, I focus on website and application development. My hobby in IT is likes about new things about coding.
 <br>
